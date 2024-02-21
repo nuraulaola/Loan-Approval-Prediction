@@ -7,7 +7,7 @@ This data science project employs a Random Forest model to predict loan approval
 ### Key Features
 
 - **Random Forest Model:** Utilizes a robust machine learning algorithm for accurate prediction.
-- **Streamlit App:** User-friendly interface providing interactive visualization and insights. [Explore the App]([https://loan-approval-preds.streamlit.app/])
+- **Streamlit App:** User-friendly interface providing interactive visualization and insights. [Explore the App](https://loan-approval-preds.streamlit.app/)
 - **Comprehensive Analysis:** In-depth examination of applicant data, encompassing various factors influencing loan approval.
 
 ### Usage
