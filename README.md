@@ -10,6 +10,10 @@ This data science project employs a Random Forest model to predict loan approval
 - **Streamlit App:** User-friendly interface providing interactive visualization and insights. [Explore the App](https://loan-approval-preds.streamlit.app/)
 - **Comprehensive Analysis:** In-depth examination of applicant data, encompassing various factors influencing loan approval.
 
+### Outcome
+
+The project aims to provide accurate loan approval predictions, empowering users to make informed decisions based on the comprehensive analysis of diverse applicant features.
+
 ### Usage
 
 Clone the repository and run the Streamlit app locally:
