@@ -7,13 +7,13 @@ import os
 script_directory = os.path.dirname(os.path.abspath(__file__))
 
 # Construct the full path to the file
-file_path = os.path.join(script_directory, 'Random Forest Model.pkl')
+file_path = os.path.join(script_directory, 'Random_Forest_Model.pkl')
 
 # Check if the file exists before attempting to open it
 if os.path.exists(file_path):
     # Open the file using the full path
     with open(file_path, 'rb') as file:
-        Random Forest Model = pickle.load(file)
+        Random_Forest_Model = pickle.load(file)
 else:
     st.error(f"Model file not found at {file_path}")
     st.stop()
